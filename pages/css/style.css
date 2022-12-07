@@ -164,8 +164,6 @@ main {
   width: 100%;
   color: #000;
 }
-.container {
-}
 
 .hero-info {
   text-align: center;
@@ -191,8 +189,6 @@ main {
   display: inline-block;
   width: 100%;
 }
-.xizmatlar-container {
-}
 
 .xiz-blog {
   display: inline-block;
@@ -211,16 +207,14 @@ main {
 .xiz-blog-img {
   margin-top: 0;
 }
-.xiz-blog-info {
-}
+
 .info-title {
   padding-bottom: 1.6rem;
 }
 .info-description {
   padding-bottom: 1.6rem;
 }
-.info-list {
-}
+
 .info-item {
   padding-bottom: 0.8rem;
 }
@@ -312,17 +306,10 @@ main {
 .footer-info-title {
   padding-bottom: 1.6rem;
 }
-.footer-info-description {
-}
-.footer-list {
-}
-.footer-item {
-}
+
 .footer-link {
   color: #fff;
   padding-bottom: 8px;
   display: flex;
   gap: 8px;
-}
-.footer-img {
 }
